@@ -9,7 +9,6 @@ import software.ulpgc.kata7.View.MainFrame;
 import java.io.File;
 
 public class Main {
-
     public static final String root = "C:\\Users\\Dani\\Desktop\\Imagenes";
 
     public static void main(String[] args) {
